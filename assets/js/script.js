@@ -97,7 +97,7 @@ const urlParams = new URLSearchParams(window.location.search)
 const pronoun = urlParams.get('p') || 'Bapak/Ibu/Saudara/i';
 const name = urlParams.get('n') || '';
 const namaSambutan = document.querySelector('#namaSambutan')
-namaSambutan.innerText = `${pronoun} ${name},`.replace(/,$/, ',');
+namaSambutan.innerText = `${pronoun} ${name},`.replace(/, $/, ',');
 document.querySelector('#nama').value = name;
 // copy text
 function copyText(el) {
