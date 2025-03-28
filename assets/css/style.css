@@ -1,8 +1,8 @@
 :root {
-  --pink: #f14e95;
-  --pink-muted: #fdf4f8;
-  --pink-light: #fcdbe9;
-  --pink-hover: #d84686;
+  --pink: #C7DB9C;
+  --pink-muted: #e3f8b4;
+  --pink-light: #ddecbb;
+  --pink-hover: #b1c585;
   --white: #ffffff;
   --grey: #cccccc;
   --light-grey: #d4d4d4;
@@ -181,7 +181,7 @@ body.transition {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(241, 78, 149, 0.4);
+  background: rgba(137, 168, 178, 0.4);
 }
 
 #hero-section {
