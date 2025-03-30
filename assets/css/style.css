@@ -112,7 +112,7 @@ body.transition {
   right: 0;
   list-style-type: none;
   display: flex;
-  background-color: var(--pink);
+  background-color: var(--black);
   height: 80px;
   z-index: 1;
 }
@@ -206,12 +206,12 @@ body.transition {
   display: inline-block;
   padding: 10px 28px;
   transition: 0.5s;
-  color: var(--pink);
+  color: var(--black);
   background: var(--white);
 }
 
 #hero-section .btn-get-started:hover {
-  background: var(--pink-hover);
+  background: var(--black);
   color: var(--white);
 }
 
