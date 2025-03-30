@@ -4,7 +4,7 @@
   --pink-light: #ddecbb;
   --pink-hover: #b1c585;
   --white: #ffffff;
-  --grey: #cccccc;
+  --grey: #acacac;
   --light-grey: #d4d4d4;
   --very-light-grey: #eeeeee;
   --dark-grey: #999999;
@@ -222,7 +222,7 @@ body.transition {
 }
 
 .text-pink {
-  color: var(--pink);
+  color: var(--black);
 }
 
 .pembuka-section {
@@ -244,7 +244,7 @@ body.transition {
 }
 
 .section-bg {
-  background-color: var(--pink-muted);
+  background-color: var(--grey);
 }
 
 #content-section {
