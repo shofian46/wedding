@@ -187,7 +187,7 @@ body.transition {
 #hero-section {
   width: 100%;
   height: 100vh;
-  background: url("assets/img/foto-pengantin.jpg") top left;
+  background: url(".././img/foto-pengantin.JPG") top left;
   background-size: cover;
   position: relative;
   background-position: center;
