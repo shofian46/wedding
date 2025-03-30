@@ -507,7 +507,7 @@ body.transition {
       rgba(0, 0, 0, 0.8) 60%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url("../../assets/img/wedding.JPG");
+    url("../../assets/img/gallery/img7.JPG");
   background-position: center;
   background-size: cover;
 }
